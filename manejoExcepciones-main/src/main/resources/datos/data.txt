@@ -1,0 +1,7 @@
+Julian Arango;Bogota;Actor
+Camilo Zañiga;Medellin;Futbolista
+Juanes;Medellin;Cantante
+shakira;Barranquilla;Cantante
+Ivan Marin;Comediante
+James Rodriguez;Bello;Futbolista
+Andres Parra;Cali;Actor
